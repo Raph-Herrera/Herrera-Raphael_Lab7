@@ -51,7 +51,7 @@ else:
     
 print (f"Name of student: {name}")
 print (f"Section: {section}")
-print (f"Final Grade: {finalGrade:.2f}")
+print (f"Final Grade: {finalGrade:.0f}")
 print (f"GPA: {gradePoint}")
 print (description)
     
